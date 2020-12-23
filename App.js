@@ -1,9 +1,9 @@
 const items = [
- { number: "1", title: "🇦🇷 Argentina"},
- { number: "2", title: "🤩 YASS"},
- { number: "3", title: "👩🏼‍💻 Tech Girl"},
- { number: "4", title: "💋 Lipstick & Code"},
- { number: "5", title: "💃🏼 Latina"},
+ { number: "1", title: "Argentina"},
+ { number: "2", title: "YASS"},
+ { number: "3", title: "Tech Girl"},
+ { number: "4", title: " Lipstick & Code"},
+ { number: "5", title: "Latina"},
 ]
 
 const initialDnDState = {
